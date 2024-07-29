@@ -1,6 +1,7 @@
 # Chegg Question Skipper
 
 Chegg Question Skipper is a Chrome extension designed to streamline your experience on Chegg's question authoring page. It allows you to skip questions quickly and efficiently with a single click.
+
 ![image](image.png)
 
 ## Features
