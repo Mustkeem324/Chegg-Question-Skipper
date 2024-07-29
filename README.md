@@ -43,11 +43,11 @@ We welcome contributions! If you have suggestions or improvements, please submit
 
 ## Contact
 
-For any questions or support, please contact us at [your-email@example.com].
+For any questions or support, please contact us at [mustkeem324@gmail.com].
 
 ## Join Our Community
 
-Stay updated with the latest news and support by joining our Telegram channel: [Join Now](https://t.me/yourchannel).
+Stay updated with the latest news and support by joining our Telegram channel: [Join Now](https://t.me/cheggnx).
 
 ## License
 
