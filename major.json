@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "https://cdn.walkme.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "xmlhttprequest",
+                "script",
+                "other"
+            ]
+        }
+    }
+]
